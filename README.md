@@ -24,7 +24,7 @@
 | **Active Directory Lab** | Windows Server 2022 domain with GPOs, OUs, NTFS permissions | 🔄 In progress |
 | **Firewall Lab** | CentOS firewall with firewalld, IP forwarding, and traffic blocking rules | ✅ Done |
 | **IAM Lab** | Okta tenant with MFA (Okta Verify) and authentication policies | ✅ Done |
-| **Security+** | CompTIA Security+ certification preparation | 📖 In progress (exam: 07/2026) |
+| **Security+** | CompTIA Security+ certification preparation | ✅ Done (03/09/2026) |
 | **OverTheWire Bandit** | Linux command-line and permissions wargame | ✅ Completed |
 
 ---
@@ -53,7 +53,7 @@
 
 | Certification | Status | Target Date |
 |---------------|--------|-------------|
-| CompTIA Security+ | Studying | July 2026 |
+| CompTIA Security+ | Done | 03/09/2026 |
 | (Future) SC-300 (IAM) | Planned | - |
 
 ---
