@@ -21,7 +21,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Active Directory Lab** | Windows Server 2022 domain with GPOs, OUs, NTFS permissions | 🔄 In progress |
+| **Active Directory Lab** | Windows Server 2022 domain with GPOs, OUs, NTFS permissions | ✅ Done |
 | **Firewall Lab** | CentOS firewall with firewalld, IP forwarding, and traffic blocking rules | ✅ Done |
 | **IAM Lab** | Okta tenant with MFA (Okta Verify) and authentication policies | ✅ Done |
 | **Security+** | CompTIA Security+ certification preparation | ✅ Done (03/09/2026) |
