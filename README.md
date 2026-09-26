@@ -54,7 +54,7 @@
 | Certification | Status | Target Date |
 |---------------|--------|-------------|
 | CompTIA Security+ | Done | 03/09/2026 |
-| (Future) SC-300 (IAM) | Planned | - |
+
 
 ---
 
