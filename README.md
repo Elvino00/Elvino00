@@ -24,7 +24,6 @@
 | **Active Directory Lab** | Windows Server 2022 domain with GPOs, OUs, NTFS permissions | ✅ Done |
 | **Firewall Lab** | CentOS firewall with firewalld, IP forwarding, and traffic blocking rules | ✅ Done |
 | **IAM Lab** | Okta tenant with MFA (Okta Verify) and authentication policies | ✅ Done |
-| **Security+** | CompTIA Security+ certification preparation | ✅ Done (03/09/2026) |
 | **OverTheWire Bandit** | Linux command-line and permissions wargame | ✅ Completed |
 
 ---
@@ -44,8 +43,7 @@
 
 ### Programming (for automation & scripting)
 - Python (basic)
-- Java (university projects)
-- C (socket programming)
+- Bash scripting (basic)
 
 ---
 
@@ -61,8 +59,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/elvino-buonanno-499459358" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/el.buonanno" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elvino-buonanno" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
@@ -76,5 +73,5 @@
 ---
 
 <p align="center">
-  <i>📍 Based in Naples, Italy</i>
+  <i>📍 Based in Aversa, Italy</i>
 </p>
